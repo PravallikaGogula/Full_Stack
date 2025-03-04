@@ -1,8 +1,6 @@
-# React + Vite
+# Todo App and GitHub Repo Info
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project contains two React applications:
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1.####To-Do App: A simple to-do list where users can add and delete tasks.
+2.####GitHub Repository Info: Allows users to input a GitHub repository's owner and name, fetch and display repository information like stars, forks, issues, etc.
